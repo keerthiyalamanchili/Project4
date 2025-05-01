@@ -1,0 +1,235 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>HP</Author>
+  <LastAuthor>HP</LastAuthor>
+  <Created>2024-04-29T03:43:54Z</Created>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>9552</WindowHeight>
+  <WindowWidth>22980</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>36</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s75">
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s76">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s77">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s79">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000" ss:Bold="1" ss:Italic="1"/>
+  </Style>
+  <Style ss:ID="s81">
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000" ss:Bold="1" ss:Italic="1"/>
+  </Style>
+  <Style ss:ID="s82">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s83">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000" ss:Bold="1" ss:Italic="1"/>
+  </Style>
+  <Style ss:ID="s84">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Building a Highly Available, Sc">
+  <Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="20" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s75" ss:DefaultRowHeight="15.600000000000001">
+   <Column ss:StyleID="s76" ss:AutoFitWidth="0" ss:Width="322.8"/>
+   <Column ss:StyleID="s76" ss:AutoFitWidth="0" ss:Width="126"/>
+   <Column ss:StyleID="s76" ss:AutoFitWidth="0" ss:Width="115.80000000000001"/>
+   <Column ss:StyleID="s76" ss:AutoFitWidth="0" ss:Width="241.20000000000002"/>
+   <Column ss:StyleID="s76" ss:AutoFitWidth="0" ss:Width="51.6"/>
+   <Column ss:StyleID="s76" ss:AutoFitWidth="0" ss:Width="61.199999999999996"/>
+   <Column ss:StyleID="s76" ss:AutoFitWidth="0" ss:Width="144.6"/>
+   <Column ss:StyleID="s84" ss:AutoFitWidth="0" ss:Width="46.2"/>
+   <Column ss:StyleID="s75" ss:AutoFitWidth="0" ss:Width="39"/>
+   <Column ss:StyleID="s75" ss:AutoFitWidth="0" ss:Width="739.2"/>
+   <Row ss:StyleID="s77">
+    <Cell><Data ss:Type="String">Estimate summary</Data></Cell>
+    <Cell ss:Index="8" ss:StyleID="s82"/>
+   </Row>
+   <Row ss:Height="16.2" ss:StyleID="s79">
+    <Cell><Data ss:Type="String">Upfront cost</Data></Cell>
+    <Cell><Data ss:Type="String">Monthly cost</Data></Cell>
+    <Cell><Data ss:Type="String">Total 12 months cost</Data></Cell>
+    <Cell><Data ss:Type="String">Currency</Data></Cell>
+    <Cell ss:Index="8" ss:StyleID="s83"/>
+   </Row>
+   <Row ss:StyleID="s76">
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">113.44</Data></Cell>
+    <Cell><Data ss:Type="Number">1361.28</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell ss:Index="8" ss:StyleID="s84"/>
+   </Row>
+   <Row ss:StyleID="s76">
+    <Cell ss:Index="3"><Data ss:Type="String">* Includes upfront cost</Data></Cell>
+    <Cell ss:Index="8" ss:StyleID="s84"/>
+   </Row>
+   <Row ss:Index="7" ss:Height="16.2" ss:StyleID="s81">
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Detailed Estimate</Data></Cell>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:StyleID="s83"/>
+   </Row>
+   <Row ss:StyleID="s77">
+    <Cell><Data ss:Type="String">Group hierarchy</Data></Cell>
+    <Cell><Data ss:Type="String">Region</Data></Cell>
+    <Cell><Data ss:Type="String">Description</Data></Cell>
+    <Cell><Data ss:Type="String">Service</Data></Cell>
+    <Cell><Data ss:Type="String">Upfront</Data></Cell>
+    <Cell><Data ss:Type="String">Monthly</Data></Cell>
+    <Cell><Data ss:Type="String">First 12 months total</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Currency</Data></Cell>
+    <Cell><Data ss:Type="String">Status</Data></Cell>
+    <Cell><Data ss:Type="String">Configuration summary</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Building a Highly Available, Scalable Web Application ESTIMATE</Data></Cell>
+    <Cell><Data ss:Type="String">US East (N. Virginia)</Data></Cell>
+    <Cell><Data ss:Type="String">EC2 Estimate</Data></Cell>
+    <Cell><Data ss:Type="String">Amazon EC2 </Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">26.6</Data></Cell>
+    <Cell><Data ss:Type="Number">319.2</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Tenancy (Shared Instances), Operating system (Linux), Workload (Consistent, Number of instances: 4), Advance EC2 instance (t2.micro), Pricing strategy ( 3yr  No Upfront), Enable monitoring (disabled), EBS Storage amount (30 GB), DT Inbound: Not selected (0 TB per month), DT Outbound: Not selected (0 TB per month), DT Intra-Region: (0 TB per month)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Building a Highly Available, Scalable Web Application ESTIMATE</Data></Cell>
+    <Cell><Data ss:Type="String">US East (N. Virginia)</Data></Cell>
+    <Cell><Data ss:Type="String">VPC ESTIMATE</Data></Cell>
+    <Cell><Data ss:Type="String">Network Address Translation (NAT) Gateway</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">37.35</Data></Cell>
+    <Cell><Data ss:Type="Number">448.2</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Number of NAT Gateways (1)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Building a Highly Available, Scalable Web Application ESTIMATE</Data></Cell>
+    <Cell><Data ss:Type="String">US East (N. Virginia)</Data></Cell>
+    <Cell><Data ss:Type="String">VPC ESTIMATE</Data></Cell>
+    <Cell><Data ss:Type="String">Public IPv4 Address</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">14.6</Data></Cell>
+    <Cell><Data ss:Type="Number">175.2</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Number of In-use public IPv4 addresses (4)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Building a Highly Available, Scalable Web Application ESTIMATE</Data></Cell>
+    <Cell><Data ss:Type="String">US East (N. Virginia)</Data></Cell>
+    <Cell><Data ss:Type="String">RDS ESTIMATE</Data></Cell>
+    <Cell><Data ss:Type="String">Amazon RDS for MySQL</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">14.71</Data></Cell>
+    <Cell><Data ss:Type="Number">176.52</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Storage for each RDS instance (General Purpose SSD (gp2)), Storage amount (20 GB), Quantity (1), Instance type (db.t3.micro), Utilization (On-Demand only) (100 %Utilized/Month), Deployment option (Single-AZ), Pricing strategy (OnDemand)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Building a Highly Available, Scalable Web Application ESTIMATE</Data></Cell>
+    <Cell><Data ss:Type="String">US East (N. Virginia)</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Application Load Balancer</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">16.489999999999998</Data></Cell>
+    <Cell><Data ss:Type="Number">197.88</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Number of Application Load Balancers (1)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Building a Highly Available, Scalable Web Application ESTIMATE</Data></Cell>
+    <Cell><Data ss:Type="String">US East (N. Virginia)</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Amazon EC2 </Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">3.2850000000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">39.42</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Tenancy (Shared Instances), Operating system (Linux), Workload (Consistent, Number of instances: 1), Advance EC2 instance (t3.micro), Pricing strategy ( 3yr  No Upfront), Enable monitoring (disabled), DT Inbound: Not selected (0 TB per month), DT Outbound: Not selected (0 TB per month), DT Intra-Region: (0 TB per month)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Building a Highly Available, Scalable Web Application ESTIMATE</Data></Cell>
+    <Cell><Data ss:Type="String">US East (N. Virginia)</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">AWS Secrets Manager</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell><Data ss:Type="Number">4.8</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">Number of secrets (1), Average duration of each secret (30 days), Number of API calls (1 per month)</Data></Cell>
+   </Row>
+   <Row ss:Index="19">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Acknowledgement</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">* AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services.</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Zoom>80</Zoom>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>24</ActiveRow>
+     <ActiveCol>3</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
